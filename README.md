@@ -5,8 +5,8 @@
 </div>
 </p>
 
-                                              **Anticipating Automotive Sales Prices for Inventory Aquisition**
-
+**Anticipating Automotive Sales Prices for Inventory Aquisition**
+--
 ### Overview and Project Goals
 
 Obtaining the proper vehicles to maximize profit in the used auto market can prove difficult. We have obtained a dataset which includes the used vehicle values from all Craigslist used car listings during the current year, in an attempt to identify those features which have the greatest impact on automotive resale value. In addition, the data was fitted to a linear regression model to allow for pricing predicitive capabilities for possible purchases.
