@@ -21,8 +21,8 @@ Visualizations: <a href=https://github.com/yeagercmbpd/DATA602_HW1_AutoPrices/bl
 ### ReadME Navigation
 
 [Data](https://github.com/yeagercmbpd/DATA602_HW1_AutoPrices/tree/master/Data) -
-[Results](https://github.com/yeagercmbpd/DATA602_HW1_AutoPrices#results) - 
-[Project Info](https://github.com/yeagercmbpd/DATA602_HW1_AutoPrices#Packages) -
+[Results](https://github.com/yeagercmbpd/DATA602_HW1_AutoPrices#Summary) - 
+[Project Info](https://github.com/yeagercmbpd/DATA602_HW1_AutoPrices#PackagesandCredits) -
 
 ---
 
@@ -40,7 +40,7 @@ This being an open source dataset does have its drawbacks. Some of the data is t
 
 ---
 
-## Summary Results
+## Summary
 
 Explained variance: 65%
 
@@ -48,7 +48,7 @@ Throughout the analysis it became clear that the simple variables of vehicle age
 
 ---
 
-## Packages and Credits
+## PackagesandCredits
 <pre>
 By : <a href=https://github.com/yeagercmbpd>Christopher Yeager</a>
 </pre>
