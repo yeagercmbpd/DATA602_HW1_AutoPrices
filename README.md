@@ -20,12 +20,9 @@ Visualizations: <a href=https://github.com/yeagercmbpd/DATA602_HW1_AutoPrices/bl
 ---
 ### ReadME Navigation
 
-[Data](https://github.com/yeagercmbpd/DATA602_HW1_AutoPrices/#data) -
-[Model](https://github.com/a-woodbury/A-House-with-a-View#model) -
+[Data](https://github.com/yeagercmbpd/DATA602_HW1_AutoPrices/tree/master/Data) -
 [Results](https://github.com/a-woodbury/A-House-with-a-View#results) - 
-[Recommendations](https://github.com/a-woodbury/A-House-with-a-View#recommendations) - 
-[Future](https://github.com/a-woodbury/A-House-with-a-View#future) - 
-[Project Info](https://github.com/a-woodbury/A-House-with-a-View#project-info) -
+[Project Info](https://github.com/a-woodbury/A-House-with-a-View#Packages) -
 
 ---
 
