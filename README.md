@@ -20,7 +20,7 @@ Visualizations: <a href=https://github.com/yeagercmbpd/DATA602_HW1_AutoPrices/bl
 ---
 ### ReadME Navigation
 
-[Data](https://github.com/a-woodbury/A-House-with-a-View#data) -
+[Data](https://github.com/yeagercmbpd/DATA602_HW1_AutoPrices/#data) -
 [Model](https://github.com/a-woodbury/A-House-with-a-View#model) -
 [Results](https://github.com/a-woodbury/A-House-with-a-View#results) - 
 [Recommendations](https://github.com/a-woodbury/A-House-with-a-View#recommendations) - 
